@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "1aeeeb5058fda84684ee1b71a2afdb3197c6c356",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-02-18T15:22:18Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs: use config field\n\nas prep for ropensci/roweb3#1206"
+  },
+  "repo": "https://github.com/ropensci-org/commonmetar",
+  "pkg": "commonmetar",
+  "time": "2026-08-30T07:10:22Z"
+}
